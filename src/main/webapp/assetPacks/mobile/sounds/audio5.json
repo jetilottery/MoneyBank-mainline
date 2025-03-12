@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "audio5.mp3",
+    "audio5.ogg",
+    "audio5.m4a"
+  ],
+  "sprite": {
+    "FlameLand": [
+      0,
+      2337.6643990929706
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "audio6.m4a",
+    "audio6.mp3",
+    "audio6.ogg"
+  ],
+  "sprite": {
+    "ButtonBetDown": [
+      0,
+      238.59410430839
+    ],
+    "ButtonBetMax": [
+      1050,
+      855.532879818594
+    ],
+    "FlameThrowShort": [
+      2100,
+      1530.2267573696145
+    ]
+  }
+}

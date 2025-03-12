@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "audio4.m4a",
+    "audio4.mp3",
+    "audio4.ogg"
+  ],
+  "sprite": {
+    "FlameThrowLong": [
+      0,
+      1937.5056689342402
+    ]
+  }
+}

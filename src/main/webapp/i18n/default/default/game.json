@@ -1,0 +1,86 @@
+{
+    "version":"5-15-2017-4:56pm-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Yes",
+        "no": "No",
+        "confirm": "Would you like sound?"
+    },
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+    },
+    "title": "Money Bank",
+    "MenuCommand": {
+            "WLA":{
+                "howToPlay": "How To Play",
+        "payTable": "Paytable",
+                "price": "Price",
+                "stake": "Stake",
+                "balance": "Balance",
+                "button_autoPlay": "AUTO PLAY",
+            "prizeDivision": "Prize Division",
+			"prizeValue": "Prize Value",
+			"approximatePrize": "Approximate Prizes Remaining",
+			"oddsPerPlay": "Odds Per Play",
+            "overAllOdds": "There is a 1 in {oddNum} overall chance of winning a prize on each play.",
+            "availablePrices": "Available Price Points:{prices}"
+            },
+            "Commercial":{
+                "howToPlay": "Help",
+        "payTable": "Paytable",
+                "price": "Price",
+                "stake": "Stake",
+                "balance": "Balance",
+                "button_autoPlay": "REVEAL ALL"
+            },
+            "audio": {
+                "on": "On",
+                "off": "Off",
+                "sound": "Sound"
+            }
+    },   
+	"Error": {
+        "error29000": "Error:29000\n\nThere has been an internal error.\nEXIT and relaunch the game.",
+        "lostConnection": "Lost Connection!"
+    },
+    "Game": {
+            "demo": "TRY ",
+            "button_buy": "BUY",
+            "button_try": "TRY",
+            "button_continue": "CONTINUE",
+            "button_move2moneyGame": "MOVE TO MONEY",
+            "button_playAgain":"PLAY AGAIN",
+            "button_MTMPlayAgain":"TRY AGAIN",
+            "wager": "TICKET COST",
+            "meter_wager": "Ticket Cost: ",            
+            "balance": "Balance: ",
+            "wins": "Win: ",
+            "wins_demo": "Demo Win: ",
+            "message_nonWin": "BETTER LUCK\nNEXT TIME",
+            "message_buyWin": "CONGRATULATIONS!\nYou have won",
+            "message_tryWin": "THANKS FOR PLAYING!\nYou could have won",
+            "message_anonymousTryWin": "THANKS FOR PLAYING!\nYou could have won",
+            "message_close": "OK",
+            "button_exit": "EXIT",
+            "session_timeout_warning_exit_button": "EXIT",
+            "error_button_exit": "EXIT",
+            "warning_button_continue": "CONTINUE",
+            "warning_button_exitGame": "EXIT",
+            "warning_title": "WARNING",
+            "error_title": "ERROR",
+            "win_up_to":"WIN UP TO",
+            "win_up_to_mark":"!",
+            "tutorial_title":"HOW TO PLAY",
+            "tutorial_00":"Select 8 of the 12 cash counters to reveal their values.",
+            "tutorial_01":"Find 3 cash counters with the same value to win!",
+            "tutorial_02_landscape":"Collect 3 to 5 gold bars to win up to 3 additional prizes!",
+            "tutorial_02_portrait":"Collect 3 to 5 gold bars to win up to 3 additional prizes!",
+            "meter_division":" | ",
+            "prizeLevel": "Prize Level",
+            "prizeValue": "Prize Value",
+            "buttonClose":"X",
+            "paytableWager": "Ticket Cost: "
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "audio1.m4a",
+    "audio1.mp3",
+    "audio1.ogg"
+  ],
+  "sprite": {
+    "RevealDouble": [
+      0,
+      5016.8707482993195
+    ]
+  }
+}

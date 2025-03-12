@@ -1,0 +1,74 @@
+{
+    "version":"5-15-2017-4:56pm-SM-zh_cn_01",
+    "audioLoader": {
+        "yes": "是",
+        "no": "否",
+        "confirm": "是否打开音乐?"
+    },
+    "title": "大银行家",
+    "MenuCommand": {
+            "WLA":{
+                "howToPlay": "游戏规则",
+        "payTable": "赔率表",
+                "price": "投注列表",
+                "stake": "单注金额",
+                "balance": "余额",
+                "button_autoPlay": "自动"
+            },
+            "Commercial":{
+                "howToPlay": "游戏规则",
+        "payTable": "赔率表",
+                "price": "投注列表",
+                "stake": "单注金额",
+                "balance": "余额",
+                "button_autoPlay": "自动"
+            },
+            "audio": {
+        "on": "是",
+        "off": "否",
+        "sound": "声音"
+            }
+    },
+    "Error": {
+        },
+    "Game": {
+             "demo": "试玩 ",
+            "button_buy": "购买",
+            "button_try": "试玩",
+            "button_continue": "继续",
+            "button_move2moneyGame": "现金游戏",
+            "button_autoPlay": "自动",
+            "button_stop": "取消自动",
+            "button_playAgain":"再玩一次",
+            "button_MTMPlayAgain":"再玩一次",
+            "wager": "单注金额",
+            "meter_wager": "单注金额: ",
+            "balance": "余额: ",
+            "wins": "奖励: ",
+            "wins_demo": "试玩奖励: ",
+            "message_nonWin": "下次好运",
+            "message_buyWin": "恭喜，你赢得了",
+            "message_tryWin": "恭喜，运气不错\n试试现金游戏吧",
+            "message_anonymousTryWin": "恭喜，你将赢得",
+            "message_close": "确定",
+            "button_exit": "离开",
+            "session_timeout_warning_exit_button": "离开",
+            "error_button_exit": "退出",
+            "warning_button_continue": "继续",
+            "warning_button_exitGame": "退出",
+            "warning_title": "警告",
+            "error_title": "错误",
+            "win_up_to":"最高可得",
+            "tutorial_title":"玩法说明",
+            "win_up_to_mark":"!",
+            "tutorial_00":"12台点钞机中选择8台清点钞票的金额。",
+            "tutorial_01":"发现3台钞票金额相同的点钞机，\n即可获得此金额的奖励。",
+            "tutorial_02_landscape":"点击钞票时有机会发现金条，\n当收集3根或以上金条时，最多可以获得3次额外的奖励。",
+            "tutorial_02_portrait":"点击钞票时有机会发现金条，\n当收集3根或以上金条时，\n最多可以获得3次额外的奖励。",
+            "prizeLevel": "Prize Level",
+            "prizeValue": "Prize Value",           
+            "meter_division":" | ",
+            "buttonClose":"X",
+            "paytableWager": "单注金额: "
+    }
+}
